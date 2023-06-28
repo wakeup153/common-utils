@@ -1,7 +1,2 @@
-import * as tree from './tree'
-import * as array from './array'
-
-export default {
-  tree,
-  array
-}
+export * as tree from './tree'
+export * as array from './array'
