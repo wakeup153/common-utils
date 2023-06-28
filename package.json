@@ -15,6 +15,10 @@
     "utils",
     "js"
   ],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/wakeup153/common-utils.git"
+  },
   "author": "gongshichun",
   "license": "MIT",
   "devDependencies": {
