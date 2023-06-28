@@ -1,5 +1,5 @@
 {
-  "name": "@gsc/common-utils",
+  "name": "@wakeup153/common-utils",
   "version": "0.0.1",
   "description": "JS. Common Methodology Toolkit",
   "main": "lib/index.cjs.js",
